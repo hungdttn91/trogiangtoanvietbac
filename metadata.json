@@ -1,0 +1,5 @@
+{
+  "name": "Trợ lý Toán học Robot",
+  "description": "Một ứng dụng hướng dẫn học toán được hỗ trợ bởi AI. Trò chuyện với một robot thân thiện, người sẽ hướng dẫn bạn cách giải các bài toán mà không đưa ra câu trả lời trực tiếp. Tải lên hoặc dán hình ảnh các bài tập của bạn để nhận được sự trợ giúp từng bước.",
+  "requestFramePermissions": []
+}
